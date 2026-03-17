@@ -1,8 +1,11 @@
 site_name: Junly's
-site_url: https://
+site_url: https://ghostulss.github.io/Junly/
 theme:
   name: material
-
+  icon:
+   logo:material/book
+language: zh
+copyright: " Junly from HFUT"
 theme:
   name: material
   palette: 
@@ -13,7 +16,7 @@ theme:
     
     - media: "(prefers-color-scheme: light)"
       scheme: default 
-      primary: deep orange 
+      primary: teal
       accent: blue 
       toggle:
         icon: material/brightness-7
